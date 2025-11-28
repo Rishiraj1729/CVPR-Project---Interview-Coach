@@ -1,0 +1,30 @@
+# Node / frontend artifacts
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.eslintcache
+npm-debug.log*
+vite.config.ts.timestamp*
+
+# Python / backend artifacts
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# IDE / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build outputs / misc
+*.coverage
+.coverage.*
+coverage/
+dist/
+*.bak
+
